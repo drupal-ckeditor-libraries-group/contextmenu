@@ -2,6 +2,6 @@
 Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.html or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'contextmenu', 'fr-ca', {
-	options: 'Options du menu contextuel'
+CKEDITOR.plugins.setLang( 'contextmenu', 'sq', {
+	options: 'Mundësitë e Menysë së Kontekstit'
 });
